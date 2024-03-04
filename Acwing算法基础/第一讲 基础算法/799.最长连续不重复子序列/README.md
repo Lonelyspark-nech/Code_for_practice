@@ -1,4 +1,4 @@
-799. 最长连续不重复子序列
+799.最长连续不重复子序列
 ==
 https://www.acwing.com/problem/content/801/
 
